@@ -1,0 +1,14 @@
+npm init
+npm i -g truffle
+truffle init
+npm i dotenv @truffle/hdwallet-provider
+
+contract ekle
+migration ekle
+.env olustur
+config ayarla
+
+
+truffle migrate --network rinkeby
+
+0x3ded47f2B3754424cC7f1caF66B5a14578e07AFE

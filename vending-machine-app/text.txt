@@ -1,0 +1,10 @@
+npx create-next-app vending-machine-app
+npm i bulma
+npm i web3
+
+npm i solc
+package.json icerisine compile yerlestir
+npm run compile 
+
+npm run dev
+
